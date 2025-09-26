@@ -1,1 +1,1 @@
-
+def basic_example():
