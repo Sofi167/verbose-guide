@@ -14,3 +14,5 @@ def selection_sort(arr):
 arr = [64, 25, 12, 22, 11]
 sorted_arr = selection_sort(arr)
 print("Отсортированный массив:", sorted_arr)
+
+вывод программы: Отсортированный массив: [11, 12, 22, 25, 64]
