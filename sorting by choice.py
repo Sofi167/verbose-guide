@@ -1,1 +1,1 @@
-смотрите файл sorting by choice.py
+смотрите файл selecting sort.py
