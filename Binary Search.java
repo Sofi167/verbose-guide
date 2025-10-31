@@ -35,3 +35,5 @@ public class BinarySearch {
             System.out.println("Элемент найден на позиции " + result);
     }
 }
+Вывод кода:
+Элемент найден на позиции 3
